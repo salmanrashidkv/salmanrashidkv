@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**salmanrashidkv/salmanrashidkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+#  Hi, I'm Salman Rashid,
+   Passionate Data Scientist skilled in data analysis, machine learning and deep learning. Dedicated on crafting clever solutions that not only solve problems, but also bring ideas into reality. Mainly focused on turning data into actionable insights for impactful results. 
 
 Here are some ideas to get you started:
 
