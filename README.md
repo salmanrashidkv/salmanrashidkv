@@ -1,3 +1,5 @@
+![logo](https://github.com/salmanrashidkv/salmanrashidkv/blob/main/banner.png)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanrashidkv&label=Profile%20views&color=0e75b6&style=flat" alt="salmanrashidkv" /> </p>
 
 ## About Me
@@ -29,14 +31,30 @@
 🚀 **Open to Exciting Opportunities:**
 
 📫 **Connect with me:**
+<p>
 <a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="25" width="25" /></a>
-
+<a href="salmanrashidkv@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_Icon.png" alt="salmanrashidkv" height="25" width="25" /></a>
+</p>
 
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanrashidkv&show_icons=true&theme=ambient_gradient)
 
 
+<!--
+## 🌟 Top Repositories
+
+<a href="https://github.com/junaidrhmn/Image-Caption-generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Image-Caption-generator&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/junaidrhmn/Fire-And-Smoke-Detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Fire-And-Smoke-Detection&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/junaidrhmn/Used-car-price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=junaidrhmn&repo=Used-car-price-prediction&theme=material-palenight" />
+</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
