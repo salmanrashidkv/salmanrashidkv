@@ -26,6 +26,12 @@
 
 🚀 **Open to Exciting Opportunities:**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="40" width="40" /></a>
+</p>
+
+
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanrashidkv&show_icons=true&theme=ambient_gradient)
