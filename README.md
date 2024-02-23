@@ -1,4 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanrashidkv&label=Profile%20views&color=0e75b6&style=flat" alt="salmanrashidkv" /> </p>
+
 ## About Me
 #  Hi, I'm Salman Rashid,
    Passionate Data Scientist skilled in data analysis, machine learning and deep learning. Dedicated on crafting clever solutions that not only solve problems, but also bring ideas into reality. Mainly focused on turning data into actionable insights for impactful results. 
