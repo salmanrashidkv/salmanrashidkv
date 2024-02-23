@@ -32,7 +32,7 @@
 
 📫 **Connect with me:**
 <p>
-<a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="25" width="25" /></a>
+<a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="25" width="25" /></a>
 <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=salmanrashidkv@gmail.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="salmanrashidkv" height="25" width="25" /></a>
 </p>
 
