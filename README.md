@@ -24,23 +24,20 @@
 - Deep Learning
 - Natural Language Processing
 
-🚀 **Open to Exciting Opportunities:**
-
 <h4 align="left">Connect with me:</h4>
-<p>
 <a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="30" width="30" /></a>
-</p>
+
+🚀 **Open to Exciting Opportunities:**
 
 
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanrashidkv&show_icons=true&theme=ambient_gradient)
 
-
+- 📫 How to reach me: salmanrashidkv@gmail.com
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
