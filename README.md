@@ -33,7 +33,7 @@
 📫 **Connect with me:**
 <p>
 <a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="25" width="25" /></a>
-<a href="mailto:salmanrashidkv@gmail.com" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Gmail_Icon.png" alt="salmanrashidkv" height="25" width="25" /></a>
+<a href="mailto:salmanrashidkv@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="salmanrashidkv" height="25" width="25" /></a>
 </p>
 
 ## 📊 Stats
