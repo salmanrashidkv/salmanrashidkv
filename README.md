@@ -29,15 +29,12 @@
 🚀 **Open to Exciting Opportunities:**
 
 📫 **Connect with me:**
-<p>
 <a href="https://linkedin.com/in/salmanrashidkv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanrashidkv" height="25" width="25" /></a>
-</p>
+
 
 ## 📊 Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanrashidkv&show_icons=true&theme=ambient_gradient)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanrashidkv&show_icons=true&locale=en&layout=compact" alt="salmanrashidkv" /></p>
 
 
 - 🔭 I’m currently working on ...
