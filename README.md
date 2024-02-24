@@ -1,4 +1,4 @@
-[logo](https://github.com/salmanrashidkv/salmanrashidkv/blob/main/banner.jpg)
+<!--[logo](https://github.com/salmanrashidkv/salmanrashidkv/blob/main/banner.jpg)-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanrashidkv&label=Profile%20views&color=0e75b6&style=flat" alt="salmanrashidkv" /> </p>
 
